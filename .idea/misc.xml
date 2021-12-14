@@ -3,12 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.30833333333333335" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.30833333333333335" />
         <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/frame_layout_01.xml" value="0.5" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/frame_layout_02.xml" value="0.25" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/frame_layout_2.xml" value="0.259375" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/image_view_01.xml" value="0.27395833333333336" />
         <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/linear_layout_01.xml" value="0.36614583333333334" />
         <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/linear_layout_02.xml" value="0.3515625" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/linear_layout_04.xml" value="0.36614583333333334" />
         <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/linear_layout_2.xml" value="0.3515625" />
         <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/linear_layout_3.xml" value="0.3515625" />
         <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/linear_layout_test_01.xml" value="0.3515625" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/mytube_layout_01.xml" value="0.45590142671854733" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/padding_margin_01.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/realtive_layout_01.xml" value="0.3515625" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/relaltive_layout_01.xml" value="0.3515625" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/relaltive_layout_03.xml" value="0.27395833333333336" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/relative_layout_02.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/layout/scrollview_01.xml" value="0.25" />
+        <entry key="..\:/android_workspace/myfirstapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.30833333333333335" />
       </map>
     </option>
   </component>
